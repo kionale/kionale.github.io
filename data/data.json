@@ -1,0 +1,11 @@
+{
+    "person":{
+        "firstName" :"kiona",
+        "lastName" :"Peng"
+    },
+
+    "study":{
+        "programs" : ["Digital Design and Development", "Human Resources Certificate", "Hospitality Management"],
+        "department" :"Business and Media"
+    }
+}
